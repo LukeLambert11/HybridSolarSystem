@@ -11,7 +11,6 @@ F to return to start and space bar to toggle X,Y,Z axis on/off
 
 //put the libraries used
 
-![Screen Shot 2022-11-06 at 2 03 08 PM]
 
 https://www.youtube.com/watch?v=PlyNshBtKwY
 
